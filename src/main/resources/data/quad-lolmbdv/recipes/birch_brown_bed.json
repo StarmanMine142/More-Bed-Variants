@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "building",
+  "group": "bed_from_planks",
   "key": {
     "W": {
       "item": "minecraft:brown_wool"
@@ -14,7 +15,6 @@
     "___"
   ],
   "result": {
-    "count": 1,
     "item": "quad-lolmbdv:birch_brown_bed"
   }
 }
